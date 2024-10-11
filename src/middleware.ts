@@ -27,4 +27,5 @@ export const config = {
         "/dashboard/:path*",
         "/verify/:path*",
     ],
+    
 };
